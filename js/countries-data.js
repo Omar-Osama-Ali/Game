@@ -1135,9 +1135,6 @@ const COUNTRIES = [
     ],
     "iso_n3": "372"
   },
-    ],
-    "iso_n3": "376"
-  },
   {
     "name": "Italy",
     "code": "IT",
