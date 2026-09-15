@@ -714,7 +714,6 @@ const COUNTRIES = [
     "neighbors": [
       "LY",
       "SD",
-      "IL",
       "PS"
     ],
     "iso_n3": "818"
@@ -1183,7 +1182,6 @@ const COUNTRIES = [
       "SY",
       "IQ",
       "SA",
-      "IL",
       "PS"
     ],
     "iso_n3": "400"
@@ -1297,8 +1295,7 @@ const COUNTRIES = [
     "middleEast": true,
     "difficulty": 2,
     "neighbors": [
-      "SY",
-      "IL"
+      "SY"
     ],
     "iso_n3": "422"
   },
@@ -1813,12 +1810,11 @@ const COUNTRIES = [
   {
     "name": "Palestine",
     "code": "PS",
-    "capital": "​Al Quds",
+    "capital": "Ramallah",
     "continent": "Asia",
     "middleEast": true,
     "difficulty": 1,
     "neighbors": [
-      "IL",
       "EG",
       "JO"
     ],
@@ -2347,8 +2343,7 @@ const COUNTRIES = [
       "TR",
       "IQ",
       "JO",
-      "LB",
-      "IL"
+      "LB"
     ],
     "iso_n3": "760"
   },
