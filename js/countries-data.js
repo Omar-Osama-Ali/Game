@@ -1135,19 +1135,6 @@ const COUNTRIES = [
     ],
     "iso_n3": "372"
   },
-  {
-    "name": "Israel",
-    "code": "IL",
-    "capital": "Jerusalem",
-    "continent": "Asia",
-    "middleEast": true,
-    "difficulty": 1,
-    "neighbors": [
-      "EG",
-      "JO",
-      "LB",
-      "SY",
-      "PS"
     ],
     "iso_n3": "376"
   },
