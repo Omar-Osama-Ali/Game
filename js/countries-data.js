@@ -1816,7 +1816,7 @@ const COUNTRIES = [
   {
     "name": "Palestine",
     "code": "PS",
-    "capital": "Ramallah",
+    "capital": "​Al Quds",
     "continent": "Asia",
     "middleEast": true,
     "difficulty": 1,
